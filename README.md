@@ -1,14 +1,3 @@
-Perfect 🔥 bhai, yeh raha **premium, portfolio-ready README.md** — fully branded for your **FRIDAY AI ecosystem** and looks super professional for GitHub recruiters too 🚀
-
----
-
-## 📘 **README.md (copy-paste this full version)**
-
-````markdown
-# 🤖 Face Verification AI  
-*A part of the FRIDAY AI ecosystem — built by Arnav Yadav*
-
----
 
 ## 🧠 Overview  
 **Face Verification AI** is a deep learning–powered facial verification system built using a **Siamese Neural Network** architecture.  
